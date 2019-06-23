@@ -9,7 +9,9 @@ You can find the Algolia project under the public repo: https://github.com/rabat
 Prerequisites
 -------------
 Algolia project needs to be still running at: https://www.algolia.com/apps/6II469XZG8/explorer/indices
+
 There you should be able to find Otmane_Test_Index as an index as well.
+
 Be careful, the temp licence may expire by Monday 24, June 2019
 
 Running the tests
