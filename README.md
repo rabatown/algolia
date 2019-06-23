@@ -24,6 +24,7 @@ The result displayed is automatically sorted by score.
 Built With
 ----------
 CodeSandbox - IDE
+
 Algolia - InstantSearch
 
 Versioning
